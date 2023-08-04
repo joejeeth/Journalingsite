@@ -1,0 +1,174 @@
+.navbar{
+  background-color: #94AF9F;
+  height: 85px;
+  box-shadow: 2px 0 7px;
+}
+
+.lg{
+  position:  relative;
+border: none;
+  left: 1200px;
+background-color: #94AF9F;
+color: white;
+width: 100px;
+height: 30px;
+}
+
+.lg:hover{
+  text-decoration: underline;
+  text-decoration-style: solid;
+}
+
+.usern_show{
+position: relative;
+color: white;
+left: 1180px;
+bottom: 25px;
+}
+
+.header{
+  height: 400px;
+  background-color: white;
+}
+.sub1{
+  color: #539165;
+  padding: 150px 5px 0 200px;
+  margin:0;
+}
+
+.sub2{
+  color: #539165;
+  padding: 0 10px 10px 205px;
+}
+
+.cbutton{
+  border: hidden;
+  border-radius: 10px;
+  position: relative;
+  left: 170px;
+  background-color: #94AF9F;
+  color: white;
+  width: 300px;
+  height: 40px;
+  transition: 0.2s;
+}
+
+.cbutton:hover{
+  background-color: #94AF9F;
+  color: white;
+  text-decoration:underline;
+}
+
+.homephoto{
+  height: 300px;
+  position: absolute;
+  right: 270px;
+  top: 170px;
+}
+
+.middle{
+  text-align: center;
+background-color: #CBE4DE;
+height: 400px;
+}
+
+.imgm{
+  height: 75px;
+  width: 75px;
+}
+
+.one{
+  top: 580px;
+  position: absolute;
+  left: 280px;
+}
+
+.two{
+  top: 580px;
+  position: absolute;
+  left: 750px;
+}
+
+.footer{
+  height: 100px;
+background-color: white;
+  text-align: center;
+}
+
+.foottext{
+  color: #646464;
+  position: absolute;
+  left: 685px;
+}
+
+.logos{
+  position: relative;
+  top: 50px;
+  width: 30px;
+  height: 30px;
+}
+.l0{
+  position: relative;
+  left:15px;
+}
+
+.l1{
+  position: relative;
+  left:15px;
+}
+
+.l2{
+  position: relative;
+  left:18px;
+}
+
+body{
+  margin: 0;
+}
+
+.title{
+  margin: 0;
+  padding:20px 0 0 20px;
+  color: #F8F8F8;
+}
+
+
+.lbutton{
+  border: none;
+  position: absolute;
+  right: 120px;
+  top: 20px;
+  color:white;
+  background-color:#94AF9F;
+  border-radius: 12px;
+	text-decoration: none;
+  width: 80px;
+	height: 30px;
+	transition-duration: 0.2s;
+}
+.lbutton:hover{
+  color: black;
+  background-color: white;
+}
+
+.lb{
+	text-decoration: none;
+}
+
+.sbutton{
+  border: none;
+  position: absolute;
+  right: 30px;
+  top: 20px;
+  width: 80px;
+  border-radius: 12px;
+  color:white;
+  background-color:#94AF9F;
+	text-decoration: none;
+	height: 30px;
+	transition-duration: 0.2s;
+}
+.sbutton:hover{
+  color: black;
+  background-color: white;
+}

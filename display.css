@@ -1,0 +1,111 @@
+
+.navbar{
+  background-color: #94AF9F;
+  height: 70px;
+  box-shadow: 2px 0 7px;
+}
+
+
+
+.lbutton{
+  width: 80px;
+  height: 30px;
+  border: none;
+  position:  relative;
+  top: 10px;
+  left: 1260px;
+background-color: #94AF9F;
+color: white;
+
+}
+
+body{
+
+  margin: 0;
+}
+
+.username{
+  position: relative;
+  left: 1230px;
+  bottom: 22px;
+  color: white;
+  background-color: #94AF9F;
+}
+
+.title{
+  margin: 0;
+  padding:10px 0 0 20px;
+  color: #F8F8F8;
+}
+
+.atag{
+  text-decoration: none;
+}
+
+.body{
+  text-align: center;
+}
+
+.cbutton{
+  border: none;
+  position: absolute;
+  right: 30px;
+  top: 20px;
+  width: 80px;
+  border-radius: 12px;
+  color:white;
+  background-color:#94AF9F;
+  text-decoration: none;
+  height: 30px;
+  transition-duration: 0.2s;
+}
+
+.cbutton:hover{
+  color: black;
+  background-color: white;
+}
+
+  .content{
+    padding: 30px;
+    position: relative;
+    top: 10px;
+    left: 320px;
+    width: 700px;
+    height: auto;
+    background-color: #dbdbdb;
+    border-radius: 10px;
+    font-size: 16px;
+  }
+/* DBE4C6 */
+
+  .deletebutton{
+    border: none;
+    position: fixed;
+    top: 200px;
+    right: 70px;
+    width: 80px;
+    border-radius: 12px;
+    color:white;
+    background-color:#94AF9F;
+    text-decoration: none;
+    height: 30px;
+  }
+
+
+  .din{
+    position: fixed;
+    left: 1120px;
+  }
+
+  .editbutton{
+    border: none;
+    position: fixed;
+    top: 200px;
+    right: 160px;
+    width: 80px;
+    border-radius: 12px;
+    color:white;
+    background-color:#94AF9F;
+    text-decoration: none;
+    height: 30px;
+  }
